@@ -1,7 +1,7 @@
 <template>
   <div class="about container">
     <h2>About</h2>
-    <p>This Project was done by.</p>
+    <p>This Project is stressing me out.</p>
   </div>
 </template>
 
